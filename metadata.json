@@ -1,0 +1,8 @@
+{
+  "name": "Melli — Master 3D Artistry",
+  "description": "Master 3D animation in just three days with Melli_Motion, featuring a scroll-driven 3D honeybee and parallax botanical storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
